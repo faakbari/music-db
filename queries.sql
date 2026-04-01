@@ -1,7 +1,7 @@
 -- ============================================
 -- Music DB - Practice Queries
 -- ============================================
-
+-- Updated with sample data branch
 -- Query 1: Show all songs with their album name and singer name
 SELECT so.name AS song, a.name AS album, si.name AS singer
 FROM songs so
